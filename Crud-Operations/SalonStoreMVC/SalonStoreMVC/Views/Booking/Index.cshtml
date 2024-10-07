@@ -1,0 +1,64 @@
+﻿@model IEnumerable<SalonStoreMVC.Models.Bookings>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1> Appointments</h1>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ClientName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ClientSurname)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Description)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Date)
+            </th>
+           @*  <th>
+                @Html.DisplayNameFor(model => model.Time)
+            </th> *@
+
+
+            <th>
+                <a asp-action="AddOrEdit" class="btn btn-sm btn-success">
+                    <i class="fa fa-plus" aria-hidden="true"></i>New Appointment
+                </a>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ClientName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ClientSurname)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Date)
+            </td>
+                @* <td>
+                    @Html.DisplayFor(modelItem => item.Time)
+                </td> *@
+            
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KatlehoT\\OneDrive - Central University of Technology Free State\\Desktop\\anna\\JWT-Authentication\\HairSalon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FCACF94-8A3D-45D5-B87F-F09296393C6F}|HairSalon\\HairSalon.csproj|c:\\users\\katlehot\\onedrive - central university of technology free state\\desktop\\anna\\jwt-authentication\\hairsalon\\hairsalon\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6FCACF94-8A3D-45D5-B87F-F09296393C6F}|HairSalon\\HairSalon.csproj|solutionrelative:hairsalon\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FCACF94-8A3D-45D5-B87F-F09296393C6F}|HairSalon\\HairSalon.csproj|c:\\users\\katlehot\\onedrive - central university of technology free state\\desktop\\anna\\jwt-authentication\\hairsalon\\hairsalon\\hairsalon.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6FCACF94-8A3D-45D5-B87F-F09296393C6F}|HairSalon\\HairSalon.csproj|solutionrelative:hairsalon\\hairsalon.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FCACF94-8A3D-45D5-B87F-F09296393C6F}|HairSalon\\HairSalon.csproj|c:\\users\\katlehot\\onedrive - central university of technology free state\\desktop\\anna\\jwt-authentication\\hairsalon\\hairsalon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FCACF94-8A3D-45D5-B87F-F09296393C6F}|HairSalon\\HairSalon.csproj|solutionrelative:hairsalon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FCACF94-8A3D-45D5-B87F-F09296393C6F}|HairSalon\\HairSalon.csproj|c:\\users\\katlehot\\onedrive - central university of technology free state\\desktop\\anna\\jwt-authentication\\hairsalon\\hairsalon\\extensions\\appconfigextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FCACF94-8A3D-45D5-B87F-F09296393C6F}|HairSalon\\HairSalon.csproj|solutionrelative:hairsalon\\extensions\\appconfigextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FCACF94-8A3D-45D5-B87F-F09296393C6F}|HairSalon\\HairSalon.csproj|c:\\users\\katlehot\\onedrive - central university of technology free state\\desktop\\anna\\jwt-authentication\\hairsalon\\hairsalon\\extensions\\efcoreextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FCACF94-8A3D-45D5-B87F-F09296393C6F}|HairSalon\\HairSalon.csproj|solutionrelative:hairsalon\\extensions\\efcoreextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FCACF94-8A3D-45D5-B87F-F09296393C6F}|HairSalon\\HairSalon.csproj|c:\\users\\katlehot\\onedrive - central university of technology free state\\desktop\\anna\\jwt-authentication\\hairsalon\\hairsalon\\controllers\\identityuserendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FCACF94-8A3D-45D5-B87F-F09296393C6F}|HairSalon\\HairSalon.csproj|solutionrelative:hairsalon\\controllers\\identityuserendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FCACF94-8A3D-45D5-B87F-F09296393C6F}|HairSalon\\HairSalon.csproj|c:\\users\\katlehot\\onedrive - central university of technology free state\\desktop\\anna\\jwt-authentication\\hairsalon\\hairsalon\\models\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FCACF94-8A3D-45D5-B87F-F09296393C6F}|HairSalon\\HairSalon.csproj|solutionrelative:hairsalon\\models\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FCACF94-8A3D-45D5-B87F-F09296393C6F}|HairSalon\\HairSalon.csproj|c:\\users\\katlehot\\onedrive - central university of technology free state\\desktop\\anna\\jwt-authentication\\hairsalon\\hairsalon\\extensions\\identityextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FCACF94-8A3D-45D5-B87F-F09296393C6F}|HairSalon\\HairSalon.csproj|solutionrelative:hairsalon\\extensions\\identityextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FCACF94-8A3D-45D5-B87F-F09296393C6F}|HairSalon\\HairSalon.csproj|c:\\users\\katlehot\\onedrive - central university of technology free state\\desktop\\anna\\jwt-authentication\\hairsalon\\hairsalon\\extensions\\swaggerextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FCACF94-8A3D-45D5-B87F-F09296393C6F}|HairSalon\\HairSalon.csproj|solutionrelative:hairsalon\\extensions\\swaggerextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HairSalon.csproj",
+              "DocumentMoniker": "C:\\Users\\KatlehoT\\OneDrive - Central University of Technology Free State\\Desktop\\anna\\JWT-Authentication\\HairSalon\\HairSalon\\HairSalon.csproj",
+              "RelativeDocumentMoniker": "HairSalon\\HairSalon.csproj",
+              "ToolTip": "C:\\Users\\KatlehoT\\OneDrive - Central University of Technology Free State\\Desktop\\anna\\JWT-Authentication\\HairSalon\\HairSalon\\HairSalon.csproj",
+              "RelativeToolTip": "HairSalon\\HairSalon.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-05T20:49:34.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\KatlehoT\\OneDrive - Central University of Technology Free State\\Desktop\\anna\\JWT-Authentication\\HairSalon\\HairSalon\\appsettings.json",
+              "RelativeDocumentMoniker": "HairSalon\\appsettings.json",
+              "ToolTip": "C:\\Users\\KatlehoT\\OneDrive - Central University of Technology Free State\\Desktop\\anna\\JWT-Authentication\\HairSalon\\HairSalon\\appsettings.json",
+              "RelativeToolTip": "HairSalon\\appsettings.json",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-05T20:36:46.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppSettings.cs",
+              "DocumentMoniker": "C:\\Users\\KatlehoT\\OneDrive - Central University of Technology Free State\\Desktop\\anna\\JWT-Authentication\\HairSalon\\HairSalon\\Models\\AppSettings.cs",
+              "RelativeDocumentMoniker": "HairSalon\\Models\\AppSettings.cs",
+              "ToolTip": "C:\\Users\\KatlehoT\\OneDrive - Central University of Technology Free State\\Desktop\\anna\\JWT-Authentication\\HairSalon\\HairSalon\\Models\\AppSettings.cs",
+              "RelativeToolTip": "HairSalon\\Models\\AppSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T20:36:21.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IdentityUserEndPoints.cs",
+              "DocumentMoniker": "C:\\Users\\KatlehoT\\OneDrive - Central University of Technology Free State\\Desktop\\anna\\JWT-Authentication\\HairSalon\\HairSalon\\Controllers\\IdentityUserEndPoints.cs",
+              "RelativeDocumentMoniker": "HairSalon\\Controllers\\IdentityUserEndPoints.cs",
+              "ToolTip": "C:\\Users\\KatlehoT\\OneDrive - Central University of Technology Free State\\Desktop\\anna\\JWT-Authentication\\HairSalon\\HairSalon\\Controllers\\IdentityUserEndPoints.cs",
+              "RelativeToolTip": "HairSalon\\Controllers\\IdentityUserEndPoints.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAxwEIAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T20:11:44.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppConfigExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\KatlehoT\\OneDrive - Central University of Technology Free State\\Desktop\\anna\\JWT-Authentication\\HairSalon\\HairSalon\\Extensions\\AppConfigExtensions.cs",
+              "RelativeDocumentMoniker": "HairSalon\\Extensions\\AppConfigExtensions.cs",
+              "ToolTip": "C:\\Users\\KatlehoT\\OneDrive - Central University of Technology Free State\\Desktop\\anna\\JWT-Authentication\\HairSalon\\HairSalon\\Extensions\\AppConfigExtensions.cs",
+              "RelativeToolTip": "HairSalon\\Extensions\\AppConfigExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T19:59:00.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SwaggerExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\KatlehoT\\OneDrive - Central University of Technology Free State\\Desktop\\anna\\JWT-Authentication\\HairSalon\\HairSalon\\Extensions\\SwaggerExtensions.cs",
+              "RelativeDocumentMoniker": "HairSalon\\Extensions\\SwaggerExtensions.cs",
+              "ToolTip": "C:\\Users\\KatlehoT\\OneDrive - Central University of Technology Free State\\Desktop\\anna\\JWT-Authentication\\HairSalon\\HairSalon\\Extensions\\SwaggerExtensions.cs",
+              "RelativeToolTip": "HairSalon\\Extensions\\SwaggerExtensions.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T19:51:44.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EFCoreExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\KatlehoT\\OneDrive - Central University of Technology Free State\\Desktop\\anna\\JWT-Authentication\\HairSalon\\HairSalon\\Extensions\\EFCoreExtensions.cs",
+              "RelativeDocumentMoniker": "HairSalon\\Extensions\\EFCoreExtensions.cs",
+              "ToolTip": "C:\\Users\\KatlehoT\\OneDrive - Central University of Technology Free State\\Desktop\\anna\\JWT-Authentication\\HairSalon\\HairSalon\\Extensions\\EFCoreExtensions.cs",
+              "RelativeToolTip": "HairSalon\\Extensions\\EFCoreExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T19:37:47.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KatlehoT\\OneDrive - Central University of Technology Free State\\Desktop\\anna\\JWT-Authentication\\HairSalon\\HairSalon\\Program.cs",
+              "RelativeDocumentMoniker": "HairSalon\\Program.cs",
+              "ToolTip": "C:\\Users\\KatlehoT\\OneDrive - Central University of Technology Free State\\Desktop\\anna\\JWT-Authentication\\HairSalon\\HairSalon\\Program.cs",
+              "RelativeToolTip": "HairSalon\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T16:23:06.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IdentityExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\KatlehoT\\OneDrive - Central University of Technology Free State\\Desktop\\anna\\JWT-Authentication\\HairSalon\\HairSalon\\Extensions\\IdentityExtensions.cs",
+              "RelativeDocumentMoniker": "HairSalon\\Extensions\\IdentityExtensions.cs",
+              "ToolTip": "C:\\Users\\KatlehoT\\OneDrive - Central University of Technology Free State\\Desktop\\anna\\JWT-Authentication\\HairSalon\\HairSalon\\Extensions\\IdentityExtensions.cs",
+              "RelativeToolTip": "HairSalon\\Extensions\\IdentityExtensions.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwDoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T19:30:59.855Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,293 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KatlehoT\\OneDrive - Central University of Technology Free State\\Desktop\\anna\\SalonStoreMVC\\SalonStoreMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32948B72-973C-450F-8B3B-4C0D5450C779}|SalonStoreMVC\\SalonStoreMVC.csproj|c:\\users\\katlehot\\onedrive - central university of technology free state\\desktop\\anna\\salonstoremvc\\salonstoremvc\\salonstoremvc\\views\\booking\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32948B72-973C-450F-8B3B-4C0D5450C779}|SalonStoreMVC\\SalonStoreMVC.csproj|solutionrelative:salonstoremvc\\views\\booking\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32948B72-973C-450F-8B3B-4C0D5450C779}|SalonStoreMVC\\SalonStoreMVC.csproj|c:\\users\\katlehot\\onedrive - central university of technology free state\\desktop\\anna\\salonstoremvc\\salonstoremvc\\salonstoremvc\\views\\booking\\addoredit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32948B72-973C-450F-8B3B-4C0D5450C779}|SalonStoreMVC\\SalonStoreMVC.csproj|solutionrelative:salonstoremvc\\views\\booking\\addoredit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32948B72-973C-450F-8B3B-4C0D5450C779}|SalonStoreMVC\\SalonStoreMVC.csproj|c:\\users\\katlehot\\onedrive - central university of technology free state\\desktop\\anna\\salonstoremvc\\salonstoremvc\\salonstoremvc\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32948B72-973C-450F-8B3B-4C0D5450C779}|SalonStoreMVC\\SalonStoreMVC.csproj|solutionrelative:salonstoremvc\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32948B72-973C-450F-8B3B-4C0D5450C779}|SalonStoreMVC\\SalonStoreMVC.csproj|c:\\users\\katlehot\\onedrive - central university of technology free state\\desktop\\anna\\salonstoremvc\\salonstoremvc\\salonstoremvc\\views\\booking\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32948B72-973C-450F-8B3B-4C0D5450C779}|SalonStoreMVC\\SalonStoreMVC.csproj|solutionrelative:salonstoremvc\\views\\booking\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32948B72-973C-450F-8B3B-4C0D5450C779}|SalonStoreMVC\\SalonStoreMVC.csproj|c:\\users\\katlehot\\onedrive - central university of technology free state\\desktop\\anna\\salonstoremvc\\salonstoremvc\\salonstoremvc\\views\\booking\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32948B72-973C-450F-8B3B-4C0D5450C779}|SalonStoreMVC\\SalonStoreMVC.csproj|solutionrelative:salonstoremvc\\views\\booking\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32948B72-973C-450F-8B3B-4C0D5450C779}|SalonStoreMVC\\SalonStoreMVC.csproj|c:\\users\\katlehot\\onedrive - central university of technology free state\\desktop\\anna\\salonstoremvc\\salonstoremvc\\salonstoremvc\\views\\booking\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32948B72-973C-450F-8B3B-4C0D5450C779}|SalonStoreMVC\\SalonStoreMVC.csproj|solutionrelative:salonstoremvc\\views\\booking\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32948B72-973C-450F-8B3B-4C0D5450C779}|SalonStoreMVC\\SalonStoreMVC.csproj|c:\\users\\katlehot\\onedrive - central university of technology free state\\desktop\\anna\\salonstoremvc\\salonstoremvc\\salonstoremvc\\models\\bookings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32948B72-973C-450F-8B3B-4C0D5450C779}|SalonStoreMVC\\SalonStoreMVC.csproj|solutionrelative:salonstoremvc\\models\\bookings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32948B72-973C-450F-8B3B-4C0D5450C779}|SalonStoreMVC\\SalonStoreMVC.csproj|c:\\users\\katlehot\\onedrive - central university of technology free state\\desktop\\anna\\salonstoremvc\\salonstoremvc\\salonstoremvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32948B72-973C-450F-8B3B-4C0D5450C779}|SalonStoreMVC\\SalonStoreMVC.csproj|solutionrelative:salonstoremvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32948B72-973C-450F-8B3B-4C0D5450C779}|SalonStoreMVC\\SalonStoreMVC.csproj|c:\\users\\katlehot\\onedrive - central university of technology free state\\desktop\\anna\\salonstoremvc\\salonstoremvc\\salonstoremvc\\models\\bookingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32948B72-973C-450F-8B3B-4C0D5450C779}|SalonStoreMVC\\SalonStoreMVC.csproj|solutionrelative:salonstoremvc\\models\\bookingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32948B72-973C-450F-8B3B-4C0D5450C779}|SalonStoreMVC\\SalonStoreMVC.csproj|c:\\users\\katlehot\\onedrive - central university of technology free state\\desktop\\anna\\salonstoremvc\\salonstoremvc\\salonstoremvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32948B72-973C-450F-8B3B-4C0D5450C779}|SalonStoreMVC\\SalonStoreMVC.csproj|solutionrelative:salonstoremvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32948B72-973C-450F-8B3B-4C0D5450C779}|SalonStoreMVC\\SalonStoreMVC.csproj|c:\\users\\katlehot\\onedrive - central university of technology free state\\desktop\\anna\\salonstoremvc\\salonstoremvc\\salonstoremvc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32948B72-973C-450F-8B3B-4C0D5450C779}|SalonStoreMVC\\SalonStoreMVC.csproj|solutionrelative:salonstoremvc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32948B72-973C-450F-8B3B-4C0D5450C779}|SalonStoreMVC\\SalonStoreMVC.csproj|c:\\users\\katlehot\\onedrive - central university of technology free state\\desktop\\anna\\salonstoremvc\\salonstoremvc\\salonstoremvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32948B72-973C-450F-8B3B-4C0D5450C779}|SalonStoreMVC\\SalonStoreMVC.csproj|solutionrelative:salonstoremvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32948B72-973C-450F-8B3B-4C0D5450C779}|SalonStoreMVC\\SalonStoreMVC.csproj|c:\\users\\katlehot\\onedrive - central university of technology free state\\desktop\\anna\\salonstoremvc\\salonstoremvc\\salonstoremvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32948B72-973C-450F-8B3B-4C0D5450C779}|SalonStoreMVC\\SalonStoreMVC.csproj|solutionrelative:salonstoremvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32948B72-973C-450F-8B3B-4C0D5450C779}|SalonStoreMVC\\SalonStoreMVC.csproj|c:\\users\\katlehot\\onedrive - central university of technology free state\\desktop\\anna\\salonstoremvc\\salonstoremvc\\salonstoremvc\\migrations\\bookingdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32948B72-973C-450F-8B3B-4C0D5450C779}|SalonStoreMVC\\SalonStoreMVC.csproj|solutionrelative:salonstoremvc\\migrations\\bookingdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32948B72-973C-450F-8B3B-4C0D5450C779}|SalonStoreMVC\\SalonStoreMVC.csproj|c:\\users\\katlehot\\onedrive - central university of technology free state\\desktop\\anna\\salonstoremvc\\salonstoremvc\\salonstoremvc\\migrations\\20241006202646_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32948B72-973C-450F-8B3B-4C0D5450C779}|SalonStoreMVC\\SalonStoreMVC.csproj|solutionrelative:salonstoremvc\\migrations\\20241006202646_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32948B72-973C-450F-8B3B-4C0D5450C779}|SalonStoreMVC\\SalonStoreMVC.csproj|c:\\users\\katlehot\\onedrive - central university of technology free state\\desktop\\anna\\salonstoremvc\\salonstoremvc\\salonstoremvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{32948B72-973C-450F-8B3B-4C0D5450C779}|SalonStoreMVC\\SalonStoreMVC.csproj|solutionrelative:salonstoremvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32948B72-973C-450F-8B3B-4C0D5450C779}|SalonStoreMVC\\SalonStoreMVC.csproj|c:\\users\\katlehot\\onedrive - central university of technology free state\\desktop\\anna\\salonstoremvc\\salonstoremvc\\salonstoremvc\\salonstoremvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{32948B72-973C-450F-8B3B-4C0D5450C779}|SalonStoreMVC\\SalonStoreMVC.csproj|solutionrelative:salonstoremvc\\salonstoremvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Bookings.cs",
+              "DocumentMoniker": "C:\\Users\\KatlehoT\\OneDrive - Central University of Technology Free State\\Desktop\\anna\\SalonStoreMVC\\SalonStoreMVC\\SalonStoreMVC\\Models\\Bookings.cs",
+              "RelativeDocumentMoniker": "SalonStoreMVC\\Models\\Bookings.cs",
+              "ToolTip": "C:\\Users\\KatlehoT\\OneDrive - Central University of Technology Free State\\Desktop\\anna\\SalonStoreMVC\\SalonStoreMVC\\SalonStoreMVC\\Models\\Bookings.cs",
+              "RelativeToolTip": "SalonStoreMVC\\Models\\Bookings.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T20:13:31.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddOrEdit.cshtml",
+              "DocumentMoniker": "C:\\Users\\KatlehoT\\OneDrive - Central University of Technology Free State\\Desktop\\anna\\SalonStoreMVC\\SalonStoreMVC\\SalonStoreMVC\\Views\\Booking\\AddOrEdit.cshtml",
+              "RelativeDocumentMoniker": "SalonStoreMVC\\Views\\Booking\\AddOrEdit.cshtml",
+              "ToolTip": "C:\\Users\\KatlehoT\\OneDrive - Central University of Technology Free State\\Desktop\\anna\\SalonStoreMVC\\SalonStoreMVC\\SalonStoreMVC\\Views\\Booking\\AddOrEdit.cshtml",
+              "RelativeToolTip": "SalonStoreMVC\\Views\\Booking\\AddOrEdit.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T22:40:05.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\KatlehoT\\OneDrive - Central University of Technology Free State\\Desktop\\anna\\SalonStoreMVC\\SalonStoreMVC\\SalonStoreMVC\\Views\\Booking\\Delete.cshtml",
+              "RelativeDocumentMoniker": "SalonStoreMVC\\Views\\Booking\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\KatlehoT\\OneDrive - Central University of Technology Free State\\Desktop\\anna\\SalonStoreMVC\\SalonStoreMVC\\SalonStoreMVC\\Views\\Booking\\Delete.cshtml",
+              "RelativeToolTip": "SalonStoreMVC\\Views\\Booking\\Delete.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T22:53:32.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\KatlehoT\\OneDrive - Central University of Technology Free State\\Desktop\\anna\\SalonStoreMVC\\SalonStoreMVC\\SalonStoreMVC\\Views\\Booking\\Details.cshtml",
+              "RelativeDocumentMoniker": "SalonStoreMVC\\Views\\Booking\\Details.cshtml",
+              "ToolTip": "C:\\Users\\KatlehoT\\OneDrive - Central University of Technology Free State\\Desktop\\anna\\SalonStoreMVC\\SalonStoreMVC\\SalonStoreMVC\\Views\\Booking\\Details.cshtml",
+              "RelativeToolTip": "SalonStoreMVC\\Views\\Booking\\Details.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T22:53:44.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\KatlehoT\\OneDrive - Central University of Technology Free State\\Desktop\\anna\\SalonStoreMVC\\SalonStoreMVC\\SalonStoreMVC\\Views\\Booking\\Edit.cshtml",
+              "RelativeDocumentMoniker": "SalonStoreMVC\\Views\\Booking\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\KatlehoT\\OneDrive - Central University of Technology Free State\\Desktop\\anna\\SalonStoreMVC\\SalonStoreMVC\\SalonStoreMVC\\Views\\Booking\\Edit.cshtml",
+              "RelativeToolTip": "SalonStoreMVC\\Views\\Booking\\Edit.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T22:53:59.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\KatlehoT\\OneDrive - Central University of Technology Free State\\Desktop\\anna\\SalonStoreMVC\\SalonStoreMVC\\SalonStoreMVC\\Views\\Booking\\Index.cshtml",
+              "RelativeDocumentMoniker": "SalonStoreMVC\\Views\\Booking\\Index.cshtml",
+              "ToolTip": "C:\\Users\\KatlehoT\\OneDrive - Central University of Technology Free State\\Desktop\\anna\\SalonStoreMVC\\SalonStoreMVC\\SalonStoreMVC\\Views\\Booking\\Index.cshtml",
+              "RelativeToolTip": "SalonStoreMVC\\Views\\Booking\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T22:54:10.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "C:\\Users\\KatlehoT\\OneDrive - Central University of Technology Free State\\Desktop\\anna\\SalonStoreMVC\\SalonStoreMVC\\SalonStoreMVC\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "SalonStoreMVC\\Controllers\\BookingController.cs",
+              "ToolTip": "C:\\Users\\KatlehoT\\OneDrive - Central University of Technology Free State\\Desktop\\anna\\SalonStoreMVC\\SalonStoreMVC\\SalonStoreMVC\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "SalonStoreMVC\\Controllers\\BookingController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAUwDsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T21:40:25.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\KatlehoT\\OneDrive - Central University of Technology Free State\\Desktop\\anna\\SalonStoreMVC\\SalonStoreMVC\\SalonStoreMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SalonStoreMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\KatlehoT\\OneDrive - Central University of Technology Free State\\Desktop\\anna\\SalonStoreMVC\\SalonStoreMVC\\SalonStoreMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SalonStoreMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T21:56:34.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BookingDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\KatlehoT\\OneDrive - Central University of Technology Free State\\Desktop\\anna\\SalonStoreMVC\\SalonStoreMVC\\SalonStoreMVC\\Models\\BookingDbContext.cs",
+              "RelativeDocumentMoniker": "SalonStoreMVC\\Models\\BookingDbContext.cs",
+              "ToolTip": "C:\\Users\\KatlehoT\\OneDrive - Central University of Technology Free State\\Desktop\\anna\\SalonStoreMVC\\SalonStoreMVC\\SalonStoreMVC\\Models\\BookingDbContext.cs",
+              "RelativeToolTip": "SalonStoreMVC\\Models\\BookingDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T20:05:37.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\KatlehoT\\OneDrive - Central University of Technology Free State\\Desktop\\anna\\SalonStoreMVC\\SalonStoreMVC\\SalonStoreMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "SalonStoreMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\KatlehoT\\OneDrive - Central University of Technology Free State\\Desktop\\anna\\SalonStoreMVC\\SalonStoreMVC\\SalonStoreMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "SalonStoreMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T22:07:29.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KatlehoT\\OneDrive - Central University of Technology Free State\\Desktop\\anna\\SalonStoreMVC\\SalonStoreMVC\\SalonStoreMVC\\Program.cs",
+              "RelativeDocumentMoniker": "SalonStoreMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\KatlehoT\\OneDrive - Central University of Technology Free State\\Desktop\\anna\\SalonStoreMVC\\SalonStoreMVC\\SalonStoreMVC\\Program.cs",
+              "RelativeToolTip": "SalonStoreMVC\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAAB8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T20:08:03.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\KatlehoT\\OneDrive - Central University of Technology Free State\\Desktop\\anna\\SalonStoreMVC\\SalonStoreMVC\\SalonStoreMVC\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "SalonStoreMVC\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\KatlehoT\\OneDrive - Central University of Technology Free State\\Desktop\\anna\\SalonStoreMVC\\SalonStoreMVC\\SalonStoreMVC\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "SalonStoreMVC\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T22:07:24.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\KatlehoT\\OneDrive - Central University of Technology Free State\\Desktop\\anna\\SalonStoreMVC\\SalonStoreMVC\\SalonStoreMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SalonStoreMVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\KatlehoT\\OneDrive - Central University of Technology Free State\\Desktop\\anna\\SalonStoreMVC\\SalonStoreMVC\\SalonStoreMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SalonStoreMVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T22:04:52.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BookingDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\KatlehoT\\OneDrive - Central University of Technology Free State\\Desktop\\anna\\SalonStoreMVC\\SalonStoreMVC\\SalonStoreMVC\\Migrations\\BookingDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "SalonStoreMVC\\Migrations\\BookingDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\KatlehoT\\OneDrive - Central University of Technology Free State\\Desktop\\anna\\SalonStoreMVC\\SalonStoreMVC\\SalonStoreMVC\\Migrations\\BookingDbContextModelSnapshot.cs",
+              "RelativeToolTip": "SalonStoreMVC\\Migrations\\BookingDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T21:34:31.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20241006202646_FirstMigration.cs",
+              "DocumentMoniker": "C:\\Users\\KatlehoT\\OneDrive - Central University of Technology Free State\\Desktop\\anna\\SalonStoreMVC\\SalonStoreMVC\\SalonStoreMVC\\Migrations\\20241006202646_FirstMigration.cs",
+              "RelativeDocumentMoniker": "SalonStoreMVC\\Migrations\\20241006202646_FirstMigration.cs",
+              "ToolTip": "C:\\Users\\KatlehoT\\OneDrive - Central University of Technology Free State\\Desktop\\anna\\SalonStoreMVC\\SalonStoreMVC\\SalonStoreMVC\\Migrations\\20241006202646_FirstMigration.cs",
+              "RelativeToolTip": "SalonStoreMVC\\Migrations\\20241006202646_FirstMigration.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T20:26:46.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\KatlehoT\\OneDrive - Central University of Technology Free State\\Desktop\\anna\\SalonStoreMVC\\SalonStoreMVC\\SalonStoreMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "SalonStoreMVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\KatlehoT\\OneDrive - Central University of Technology Free State\\Desktop\\anna\\SalonStoreMVC\\SalonStoreMVC\\SalonStoreMVC\\appsettings.json",
+              "RelativeToolTip": "SalonStoreMVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-06T20:09:45.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SalonStoreMVC.csproj",
+              "DocumentMoniker": "C:\\Users\\KatlehoT\\OneDrive - Central University of Technology Free State\\Desktop\\anna\\SalonStoreMVC\\SalonStoreMVC\\SalonStoreMVC\\SalonStoreMVC.csproj",
+              "RelativeDocumentMoniker": "SalonStoreMVC\\SalonStoreMVC.csproj",
+              "ToolTip": "C:\\Users\\KatlehoT\\OneDrive - Central University of Technology Free State\\Desktop\\anna\\SalonStoreMVC\\SalonStoreMVC\\SalonStoreMVC\\SalonStoreMVC.csproj",
+              "RelativeToolTip": "SalonStoreMVC\\SalonStoreMVC.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-06T20:24:11.483Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
